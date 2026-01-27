@@ -36,3 +36,4 @@ I bridge the gap between simulation and reality, building autonomous agents that
 ---
 
 [<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/abhijeet-pand3y/)
+[<img src="https://img.shields.io/badge/Resume-Download_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">](https://github.com/Abhijeet-Pand3y/YOUR_USERNAME/blob/main/AbhijeetPandey_Resume.pdf)
