@@ -30,11 +30,10 @@ I bridge the gap between simulation and reality, building autonomous agents that
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhijeet-Pand3y&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet-Pand3y&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ---
 
-[<img src="https://img.shields.io/badge/Portfolio-View_Research-blue?style=for-the-badge&logo=github">](YOUR_WEBSITE_LINK_HERE)
-[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">](YOUR_LINKEDIN_URL_HERE)
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/abhijeet-pand3y/)
