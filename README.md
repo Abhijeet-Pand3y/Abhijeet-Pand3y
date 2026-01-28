@@ -10,8 +10,8 @@ I bridge the gap between simulation and reality, building autonomous agents that
 
 | **Project** | **Tech Stack** | **Highlight** |
 | :--- | :--- | :--- |
-| **[Imitation Learning in GTA V]https://github.com/Abhijeet-Pand3y/autonomous_driving_car_gtav** | Python, EfficientNet, NetMQ | Autonomous driving agent trained on 480GB of human driving data. |
-| **[RL Racing Agent (TORCS)]https://github.com/Abhijeet-Pand3y/Torcs_RL** | Python, TensorFlow, DQN | Self-learning racer with custom reward shaping and biased exploration. |
+| **[Imitation Learning in GTA V](https://github.com/Abhijeet-Pand3y/autonomous_driving_car_gtav)** | Python, EfficientNet, NetMQ | Autonomous driving agent trained on 480GB of human driving data. |
+| **[RL Racing Agent (TORCS)](https://github.com/Abhijeet-Pand3y/Torcs_RL)** | Python, TensorFlow, DQN | Self-learning racer with custom reward shaping and biased exploration. |
 | **[Real-Time UAV Navigation]** | Computer Vision, Edge AI | *Professional Work.* 18% accuracy gain in obstacle avoidance. |
 
 ---
