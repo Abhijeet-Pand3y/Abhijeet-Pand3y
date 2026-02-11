@@ -30,7 +30,7 @@ I bridge the gap between simulation and reality, building autonomous agents that
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet-Pand3y&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet-Pand3y&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ---
